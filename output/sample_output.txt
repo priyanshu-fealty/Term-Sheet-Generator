@@ -1,0 +1,110 @@
+# TERM SHEET FOR SERIES A PREFERRED STOCK FINANCING OF
+# SAAS COMPANY, INC.
+
+## FINANCING SUMMARY
+
+**Type of Security:** Series A Preferred Stock
+
+**Investment Amount:** $5M 
+
+**Pre-Money Valuation:** $20M 
+
+**Discount:** 20%
+
+**Closing Date:** [Expected Date]
+
+## TERMS OF SERIES A PREFERRED STOCK
+
+**Dividends:** Holders of Series A Preferred will be entitled to receive non-cumulative dividends at the rate of 8% per annum when and if declared by the Board of Directors.
+
+**Liquidation Preference:** 1x non-participating
+
+**Conversion:** Holders of Series A Preferred shall have the right to convert their shares into Common Stock at any time. The initial conversion rate shall be 1:1, subject to adjustment as provided below.
+
+**Automatic Conversion:** The Series A Preferred will automatically convert into Common Stock upon (i) the closing of a firmly underwritten public offering of Common Stock with gross proceeds of at least $30 million and at a price per share of at least 2x the Original Purchase Price, or (ii) the election of holders of a majority of the Series A Preferred.
+
+**Pro Rata Rights:** Investors will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
+
+**Anti-dilution Provisions:** The conversion price of the Series A Preferred will be subject to a broad-based weighted average adjustment in the event that the Company issues additional equity securities at a purchase price less than the applicable conversion price.
+
+## VOTING RIGHTS AND PROTECTIVE PROVISIONS
+
+**Voting Rights:** The Series A Preferred will vote together with the Common Stock on an as-converted basis, and not as a separate class, except as specifically provided herein or as otherwise required by law.
+
+**Board of Directors:** The Board of Directors shall consist of 3 members. The holders of Series A Preferred, voting as a separate class, shall be entitled to elect 1 director. The holders of Common Stock, voting as a separate class, shall be entitled to elect 2 directors.
+
+**Protective Provisions:** For so long as any shares of Series A Preferred remain outstanding, consent of the holders of a majority of the Series A Preferred shall be required for any action that: (i) alters or changes the rights, preferences or privileges of the Series A Preferred; (ii) increases or decreases the authorized number of shares of Common or Preferred Stock; (iii) creates any new class or series of shares having rights, preferences or privileges senior to or on a parity with the Series A Preferred; (iv) results in the redemption or repurchase of any shares of Common Stock (other than pursuant to equity incentive agreements with service providers); (v) results in any merger, other corporate reorganization, sale of control, or any transaction in which all or substantially all of the assets of the Company are sold; (vi) amends or waives any provision of the Company's Certificate of Incorporation or Bylaws; (vii) increases or decreases the authorized size of the Company's Board of Directors; or (viii) results in the payment or declaration of any dividend on any shares of Common or Preferred Stock.
+
+## INVESTOR RIGHTS
+
+**Information Rights:** So long as an Investor holds at least 10% of the originally purchased shares of Series A Preferred, the Company shall deliver to such Investor audited annual financial statements and unaudited quarterly financial statements. Each Investor shall also be entitled to standard inspection and visitation rights.
+
+**Registration Rights:** Demand Rights: If Investors holding more than 50% of the outstanding shares of Series A Preferred request that the Company file a Registration Statement having an aggregate offering price of at least $10 million, the Company will use its best efforts to cause such shares to be registered. The Company shall not be obligated to effect more than two registrations under these demand right provisions.
+
+**Piggyback Rights:** The Investors shall be entitled to "piggyback" registration rights on all registrations of the Company or on any demand registrations of any other investor subject to the right of the Company and its underwriters to reduce the number of shares proposed to be registered pro rata in view of market conditions.
+
+**S-3 Rights:** Investors shall be entitled to unlimited demand registrations on Form S-3 (if available to the Company) so long as such registered offerings are not less than $1 million.
+
+**Expenses:** The Company shall bear registration expenses (exclusive of underwriting discounts and commissions) of all demand, piggyback, and S-3 registrations.
+
+**Transfer of Rights:** The registration rights may be transferred to (i) any partner, member, or retired partner or member or affiliated fund of any holder which is a partnership, (ii) any member or former member of any holder which is a limited liability company, (iii) any family member or trust for the benefit of any individual holder, or (iv) any transferee who acquires at least 25% of the shares originally purchased by the transferring Investor.
+
+**Lock-up Provision:** Each Investor agrees not to sell any shares of the Company for a specified period (but not to exceed 180 days) following the effective date of the Company's initial public offering, provided that all officers, directors, and other 1% stockholders are similarly bound.
+
+## RIGHT OF FIRST REFUSAL
+
+The Investors shall have the right in the event the Company proposes to offer equity securities to any person, to purchase their pro rata portion of such shares. This right will terminate upon a Qualified IPO.
+
+## VOTING AGREEMENT
+
+The Investors, founders, and other major stockholders of the Company shall enter into a voting agreement providing for the vote of their shares to ensure that the size of the Board is set at 3 and to ensure the election to the Board of (i) 1 representative designated by the holders of a majority of the Series A Preferred, (ii) 2 representatives designated by the founders.
+
+## PROPRIETARY INFORMATION AND INVENTIONS AGREEMENT
+
+Each current and former officer, employee, and consultant of the Company shall enter into an acceptable proprietary information and inventions agreement.
+
+## CO-SALE AGREEMENT
+
+The Investors shall have the right to participate in sales of shares by the founders on a pro rata basis.
+
+## RESTRICTIONS ON SALES
+
+The founders shall not sell, transfer, or encumber more than 10% of their shares without Board approval.
+
+## CONFIDENTIALITY
+
+The terms and conditions of this Term Sheet are confidential and will not be disclosed to any third party without the consent of the Company and the Investors.
+
+## EXPIRATION
+
+This Term Sheet expires on [EXPIRATION DATE] if not accepted by the Company by that date.
+
+## EXCLUSIVITY
+
+The Company agrees that it will not, directly or indirectly, (i) solicit, initiate, encourage or entertain any inquiries or proposals from, (ii) discuss or negotiate with, (iii) provide any information to, or (iv) consider the merits of any inquiries or proposals from, any person or entity (other than the Investors) relating to any business combination transaction involving the Company, including the sale of a majority of the Company's stock or assets, until [EXCLUSIVITY DATE] or the date on which the Investors have notified the Company that they are no longer interested in pursuing the transaction, whichever is earlier.
+
+## GOVERNING LAW
+
+This Term Sheet shall be governed by the laws of [STATE], without regard to the conflict of laws principles thereof.
+
+## NO BINDING OBLIGATION
+
+Except for the confidentiality, exclusivity, and governing law provisions above, this Term Sheet is not a binding agreement and is subject to the satisfactory completion of due diligence and the execution of definitive agreements.
+
+---
+
+ACCEPTED AND AGREED:
+
+SAAS COMPANY, INC.
+
+By: ______________________________
+Name: ___________________________
+Title: ____________________________
+Date: ____________________________
+
+[INVESTOR NAME]
+
+By: ______________________________
+Name: ___________________________
+Title: ____________________________
+Date: ____________________________

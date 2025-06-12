@@ -1,0 +1,75 @@
+# CONVERTIBLE PROMISSORY NOTE
+
+**Date:** [DATE]
+
+**Company:** {{ company_name }}
+
+**Investor:** [INVESTOR NAME]
+
+**Principal Amount:** {{ amount }}
+
+## 1. PROMISE TO PAY
+
+For value received, {{ company_name }} (the "Company"), a [STATE] corporation, hereby promises to pay to the order of [INVESTOR NAME] (the "Investor"), the principal sum of {{ amount }} together with interest thereon from the date of this Note. Simple interest shall accrue at the rate of {{ interest_rate|default('5%') }} per annum. Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Investor at any time after {{ maturity|default('24 months') }} from the date hereof (the "Maturity Date").
+
+## 2. CONVERSION
+
+### 2.1 Qualified Financing
+
+If the Company issues equity securities ("Equity Securities") in a transaction or series of related transactions resulting in aggregate gross proceeds to the Company of at least {{ qualified_financing|default('$1,000,000') }} (excluding the conversion of this Note and other debt) (a "Qualified Financing"), then the outstanding principal amount of this Note and any unpaid accrued interest shall automatically convert in whole without any further action by the Investor into Equity Securities sold in the Qualified Financing at a conversion price equal to {{ discount|default('80%') }} of the per share price paid by the purchasers of such Equity Securities in the Qualified Financing.
+
+### 2.2 Change of Control
+
+If the Company consummates a Change of Control (as defined below) prior to the Maturity Date and prior to the conversion of this Note pursuant to Section 2.1, at the election of the Investor, either (i) the Investor shall receive a payment equal to {{ change_of_control_multiple|default('2') }} times the outstanding principal and unpaid accrued interest of this Note, or (ii) this Note shall convert into shares of the Company's Common Stock at a conversion price equal to the quotient resulting from dividing {{ valuation_cap|default('$5,000,000') }} by the Company's fully-diluted capitalization immediately prior to the Change of Control.
+
+### 2.3 Maturity Date
+
+If this Note has not been previously converted pursuant to Section 2.1 or 2.2, then, effective upon the Maturity Date, the outstanding principal amount and any unpaid accrued interest shall convert into shares of the Company's Common Stock at a conversion price equal to the quotient resulting from dividing {{ valuation_cap|default('$5,000,000') }} by the Company's fully-diluted capitalization.
+
+## 3. DEFINITIONS
+
+"Change of Control" means (i) a merger or consolidation in which the Company is a constituent party (except any such merger or consolidation involving the Company in which the shares of capital stock of the Company outstanding immediately prior to such merger or consolidation continue to represent, or are converted into or exchanged for shares of capital stock that represent, immediately following such merger or consolidation, at least a majority, by voting power, of the capital stock of the surviving or resulting entity or the entity that controls such surviving or resulting entity); (ii) a sale, lease, transfer, exclusive license or other disposition, in a single transaction or series of related transactions, by the Company of all or substantially all the assets of the Company; or (iii) the sale or transfer, in a single transaction or series of related transactions, by the stockholders of the Company of more than 50% of the voting power of the Company to any person or entity or group of affiliated persons or entities.
+
+## 4. MISCELLANEOUS
+
+### 4.1 Successors and Assigns
+
+This Note, and the obligations and rights of the Company hereunder, shall be binding upon and inure to the benefit of the Company, the Investor, and their respective successors and assigns; provided that the Company may not assign, transfer or delegate any of its obligations or rights under this Note without the prior written consent of the Investor.
+
+### 4.2 Governing Law
+
+This Note shall be governed by and construed in accordance with the laws of [STATE] without regard to the conflicts of law provisions of the State of [STATE] or of any other state.
+
+### 4.3 Notices
+
+All notices and other communications given or made pursuant to this Note shall be in writing and shall be deemed effectively given upon the earlier of actual receipt or: (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient's next business day, or (c) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt.
+
+### 4.4 Amendments and Waivers
+
+Any term of this Note may be amended or waived only with the written consent of the Company and the Investor.
+
+### 4.5 Severability
+
+If one or more provisions of this Note are held to be unenforceable under applicable law, such provision shall be excluded from this Note and the balance of the Note shall be interpreted as if such provision were so excluded and shall be enforceable in accordance with its terms.
+
+### 4.6 Further Assurance
+
+From time to time, the Company shall execute and deliver to the Investor such additional documents and shall provide such additional information as the Investor may reasonably require to carry out the terms of this Note.
+
+## SIGNATURE PAGE
+
+IN WITNESS WHEREOF, the Company has executed this Convertible Promissory Note as of the date first written above.
+
+{{ company_name }}
+
+By: ______________________________
+Name: ___________________________
+Title: ____________________________
+
+AGREED AND ACKNOWLEDGED:
+
+[INVESTOR NAME]
+
+By: ______________________________
+Name: ___________________________
+Title: ____________________________
